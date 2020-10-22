@@ -2,8 +2,8 @@
 <h3> Thanks for stopping by. You may know me as: </h3>
 
 <ul>
-  <li> Test Engineer at Bemol Digital [Bemol Digital](https://www.linkedin.com/company/bemoldigital/) </li>
-  <li>Tea</li>
+  <li> Test Engineer at <a href="https://www.linkedin.com/company/bemoldigital/"> Bemol Digital </a> </li>
+  <li>Tea  </li>
   <li>Milk</li>
 </ul>
 

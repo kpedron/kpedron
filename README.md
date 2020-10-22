@@ -10,9 +10,9 @@
 
 <h3> Currently, I'm... </h3>
 <ul>
-  <li><h2> In an MBA course about Agile Testing.</li>
-  <li><h2> Specializing in api testing and writing about it.</li>
-  <li><h2> Helping people to start in Tests </li>
+  <li> In an MBA course about Agile Testing.</li>
+  <li> Specializing in api testing and writing about it.</li>
+  <li> Helping people to start in Tests </li>
 </ul>
 
 <h3> Please, contact me anytime if you: </h3>
@@ -22,6 +22,8 @@
   <li> Would like to discuss different test strategies.</li>
 </ul>
 
+<h3> My dream is... </h3>
+<p> Write more source codes in GitHub, but this is still a challenge (to split with job hours) </p>
 
 <h3> I have familiarity with: </h3>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

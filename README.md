@@ -25,11 +25,6 @@
 <h3> My dream is... </h3>
 <p> Write more source codes in GitHub, but this is still a challenge (to split with job hours) </p>
 
-<h3> I have familiarity with: </h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
 <h3> You can found me here: </h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/ketlinpedron/">
